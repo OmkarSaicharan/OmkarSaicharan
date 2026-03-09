@@ -1,32 +1,15 @@
 # Omkar Saicharan
 
-## Profile
-- **M.Tech in AI & Data Science**
-- **Current Position**: Business Security at Empire DigiSev
+## Work Philosophy
+My work philosophy revolves around continuous learning and improvement. I believe in the power of collaboration and the importance of preserving a healthy work-life balance. 
 
-## Expertise
-- AI/ML
-- LLMs
-- Full Stack Development
+## Highlights
+- Strong expertise in software development and engineering principles.
+- Proven track record of leading successful projects from inception to completion.
+- Committed to best practices in software development, including testing and documentation.
 
-## Projects
-1. Skin Health AI
-2. Plant Disease Detector
-3. Ticket Booking Platform
-4. OmniStore Express
-5. Car Rental Website Django
-6. IndShopSide Portfolio
+## Footer
+Thank you for visiting my profile! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omkar-saicharan/) or check out my projects on [GitHub](https://github.com/OmkarSaicharan)!
 
-## Links
-- [LinkedIn Profile](https://www.linkedin.com/in/thornala-omkar-saicharan-a913702b7?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- [Portfolio](https://github.com/OmkarSaicharan/SVIPE-C?tab=readme-ov-file)
-
-## Tech Stack
-- Python
-- Node.js
-- React
-- Django
-- Spring
-- Hibernate
-- MySQL
-- Oracle databases
+## Last Updated
+This README was last updated on 2026-03-09 at 11:13:02 UTC.
