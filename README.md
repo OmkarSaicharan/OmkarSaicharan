@@ -48,7 +48,7 @@ I am proficient in both front-end and back-end technologies, allowing me to buil
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/thornala-omkar-saicharan-a913702b7?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- [Portfolio](your-portfolio-url)
+- [Portfolio](https://svipec.vercel.app/)
 
 ## Currently Learning
 
