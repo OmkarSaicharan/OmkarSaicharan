@@ -26,9 +26,7 @@ I am proficient in both front-end and back-end technologies, allowing me to buil
 - AWS
 - Google Cloud
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmkarSaicharan&show_icons=true&hide_title=true)
 
 ## Featured Projects
 
